@@ -64,3 +64,42 @@ Sora
 OpenAI
 通义千问
 Claude
+
+# --- 高性能网络 ---
+网络
+网卡
+驱动
+高性能
+数据包
+Linux
+内核
+传输
+TCP
+UDP
+DPDK
+eBPF
+XDP
+
+# --- 系统与内核 ---
+操作系统
+内核
+RISC-V
+xv6
+虚拟化
+内存管理
+中断
+进程
+线程
+调度
+
+# --- 科技热点（为了提高命中率）---
+AI
+人工智能
+芯片
+CPU
+NVIDIA
+OpenAI
+大模型
+Sora
+科技
+
